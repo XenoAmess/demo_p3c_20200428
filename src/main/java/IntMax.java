@@ -1,6 +1,6 @@
 public @interface IntMax {
     /**
-     * some ducuments.
+     * some documents.
      */
     int value();
 }
